@@ -3,3 +3,4 @@ main.build
 main.onefile-build
 main.dist
 build.exe
+__pycache__
