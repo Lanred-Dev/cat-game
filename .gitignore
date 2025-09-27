@@ -1,0 +1,5 @@
+main.build
+.venv
+main.onefile-build
+main.dist
+build.exe
